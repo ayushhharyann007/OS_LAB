@@ -1,0 +1,67 @@
+
+
+SCREENSHOT - https://drive.google.com/drive/folders/1C87sKmLxKvxMsmNBx17S44eCSuFyFaDz?usp=sharing
+
+
+
+
+
+
+ayusharyan@Ayushs-MacBook-Air ~ % cd desktop
+ayusharyan@Ayushs-MacBook-Air desktop % mkdir jerry.txt
+ayusharyan@Ayushs-MacBook-Air desktop % rmdir jerry.txt
+ayusharyan@Ayushs-MacBook-Air desktop % mkdir jerry2.txt
+ayusharyan@Ayushs-MacBook-Air desktop % cp jerry2.txt
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-aclpSsvXx] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-aclpSsvXx] source_file ... target_directory
+
+
+
+
+
+       
+       
+ayusharyan@Ayushs-MacBook-Air desktop % ls              
+2.0							Screenshot 2024-04-06 at 12.10.01 PM.png
+28:9							Screenshot 2024-04-06 at 12.10.12 PM.png
+BANK							Screenshot 2024-04-06 at 12.10.18 PM.png
+BankSystem						Screenshot 2024-04-06 at 12.10.23 PM.png
+C++ EXAM						Screenshot 2024-04-06 at 12.10.25 PM.png
+CSS EXAM						Screenshot 2024-04-06 at 3.06.39 AM.png
+CSS SPRINT2						Screenshot 2024-04-08 at 10.25.07 PM.png
+CSS SPRINT2.zip						Screenshot 2024-04-08 at 11.58.42 AM.png
+DSA							Screenshot 2024-04-08 at 11.58.52 AM.png
+DSA ASS							Screenshot 2024-04-08 at 11.59.08 AM.png
+Easy							Screenshot 2024-04-08 at 12.34.47 PM.png
+EventEase						Screenshot 2024-04-08 at 12.35.04 PM.png
+GUI							Screenshot 2024-04-10 at 10.25.32 AM.png
+HTML							Screenshot 2024-04-10 at 10.25.38 AM.png
+HTML TEST 						Screenshot 2024-04-10 at 10.25.53 AM.png
+JAVASCRIPT EXAM						Screenshot 2024-04-10 at 10.26.02 AM.png
+JS TEST							Screenshot 2024-04-11 at 2.01.58 AM.png
+PK							Screenshot 2024-04-13 at 12.55.29 AM.png
+
+
+
+
+ayusharyan@Ayushs-MacBook-Air desktop % rm PK
+rm: PK: is a directory
+ayusharyan@Ayushs-MacBook-Air desktop % mv EventEase
+usage: mv [-f | -i | -n] [-hv] source target
+       mv [-f | -i | -n] [-v] source ... directory
+ayusharyan@Ayushs-MacBook-Air desktop % more
+Missing filename ("less --help" for help)
+ayusharyan@Ayushs-MacBook-Air desktop % lpr
+lpr: Error - No default destination.
+ayusharyan@Ayushs-MacBook-Air desktop % man
+Unknown locale, assuming C
+ayusharyan@Ayushs-MacBook-Air desktop % grep
+usage: grep [-abcdDEFGHhIiJLlMmnOopqRSsUVvwXxZz] [-A num] [-B num] [-C[num]]
+	[-e pattern] [-f file] [--binary-files=value] [--color=when]
+	[--context[=num]] [--directories=action] [--label] [--line-buffered]
+	[--null] [pattern] [file ...]
+ayusharyan@Ayushs-MacBook-Air desktop % sed
+
+
+
+
