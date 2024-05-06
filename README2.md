@@ -19,3 +19,9 @@ Qestion 4 - Write a shell script to check to see if the file “file_path” exi
 Qestion 5 -Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.<br>
 <img width="796" alt="Screenshot 2024-05-06 at 5 56 18 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/a7ededa1-4909-440b-929b-94d7842c5d48"><br>
 <img width="505" alt="Screenshot 2024-05-06 at 5 56 50 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/949f7ca3-fb02-4e18-96eb-b7ec5d2ae103"><br>
+
+Question 6- write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against the file or directory with the long listing option.<br>
+<img width="848" alt="Screenshot 2024-05-06 at 6 06 45 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/e6635105-1f32-4dcb-8200-881a3d02f38f"><br>
+<img width="786" alt="Screenshot 2024-05-06 at 6 07 11 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/9fd1f324-d056-4302-b8ff-4a0e90635d5c"><br>
+
+
