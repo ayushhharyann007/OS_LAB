@@ -15,3 +15,7 @@ Qestion 3 - Store the output of the command “hostname” in a variable. Displa
 
 Qestion 4 - Write a shell script to check to see if the file “file_path” exists. If it does exist, display “file_path passwords are enabled.” Next, check to see if you can write to the file. If you can, display “You have permissions to edit “file_path.””If you cannot, display “You do NOT have permissions to edit<br> 
 <img width="796" alt="Screenshot 2024-05-06 at 5 27 51 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/6d25d4fa-e42b-49df-b1be-eefcf90d6dfc"><br>
+
+Qestion 5 -Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.<br>
+<img width="796" alt="Screenshot 2024-05-06 at 5 56 18 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/a7ededa1-4909-440b-929b-94d7842c5d48"><br>
+<img width="505" alt="Screenshot 2024-05-06 at 5 56 50 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/949f7ca3-fb02-4e18-96eb-b7ec5d2ae103"><br>
