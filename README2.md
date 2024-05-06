@@ -24,4 +24,8 @@ Question 6- write a shell script that prompts the user for a name of a file or d
 <img width="848" alt="Screenshot 2024-05-06 at 6 06 45 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/e6635105-1f32-4dcb-8200-881a3d02f38f"><br>
 <img width="786" alt="Screenshot 2024-05-06 at 6 07 11 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/9fd1f324-d056-4302-b8ff-4a0e90635d5c"><br>
 
+Question 7 Modify the previous script to that it accepts the file or directory name as an argument instead of prompting the user to enter it.
+<img width="786" alt="Screenshot 2024-05-06 at 6 16 28 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/271d605e-d8e7-42e8-abf7-dd5e08e7b8ce">
+
+Question-8 Modify the previous script to accept an unlimited number of files and directories as arguments
 
