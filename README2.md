@@ -12,3 +12,6 @@ Qestion 3 - Store the output of the command “hostname” in a variable. Displa
 
 <img width="808" alt="Screenshot 2024-05-06 at 5 08 08 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/efee6503-289a-47ab-a1ca-109c92936db8">
 <img width="808" alt="Screenshot 2024-05-06 at 5 08 22 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/e5251019-8036-4399-be9e-0c7475902375">
+
+Qestion 4 - Write a shell script to check to see if the file “file_path” exists. If it does exist, display “file_path passwords are enabled.” Next, check to see if you can write to the file. If you can, display “You have permissions to edit “file_path.””If you cannot, display “You do NOT have permissions to edit “file_path””<img width="808" alt="Screenshot 2024-05-06 at 5 23 16 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/c0bef9ae-6629-4bcb-9d2d-22724a65305f">
+<img width="808" alt="Screenshot 2024-05-06 at 5 23 32 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/8f516179-0605-4e78-9859-039175ab234a">
