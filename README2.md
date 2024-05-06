@@ -9,3 +9,6 @@ Qestion 2 - Modify the shellscript from exercise 1 to include a variable , the v
 
 
 Qestion 3 - Store the output of the command “hostname” in a variable. Display “This script is running on _.” where “_” is the output of the “hostname” command.	
+
+<img width="808" alt="Screenshot 2024-05-06 at 5 08 08 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/efee6503-289a-47ab-a1ca-109c92936db8">
+<img width="808" alt="Screenshot 2024-05-06 at 5 08 22 PM" src="https://github.com/ayushhharyann007/OS_LAB/assets/142776417/e5251019-8036-4399-be9e-0c7475902375">
